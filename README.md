@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Robotic Telekinesis using computer vision and Arduino**
 
-- 🌱 I’m currently learning **Augumented Reality(AR)**
+- 🌱 I’m currently learning **Artificial Intelligence and Robotics(AI)**
 
 - 💬 Ask me about **MERN Stack, python, javascript, C++**
 
