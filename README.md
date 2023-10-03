@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyder5658&label=Profile%20views&color=0e75b6&style=flat" alt="spyder5658" /> </p>
 
-- 🔭 I’m currently working on **Robotic Telekinesis using computer vision and Arduino**
+- 🔭 I’m currently working on **Voice Controlled Robot Featured With Computer Vision And Robotic Arm**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Robotics(AI)**
 
