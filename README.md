@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Chaudhary</h1>
-<h3 align="center">A passionate Electronics Engineering Undergrad Student from Nepal</h3>
+<h3 align="center">A passionate Electronics Engineer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyder5658&label=Profile%20views&color=0e75b6&style=flat" alt="spyder5658" /> </p>
 
