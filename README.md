@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ROS2,Artificial Intelligence,Embedded Systems,Electronics,Programming**
 
-- 📫 How to reach me **sarthakchaudhary5658@gmail.com**
+- 📫 How to reach me **chaudhary.sarthak5658@gmail.com**
 
 - ⚡ Fun fact **I am actually funny**
 
